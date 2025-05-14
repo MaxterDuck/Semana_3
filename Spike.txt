@@ -1,0 +1,68 @@
+Spike - [INTRODUCCION HTML]
+
+Objetivo
+Con este Spike el objetivo es conocer un lenguaje marcado que define la estructura del contenido (HTML) 
+y ponerlo en practica segun este spike y estar mas al tanto de este mismo.
+
+Contexto
+***Problema***
+La problematica de este spike sera el aprendizaje nuevo de un lenguaje
+***Historia de usuario***
+Como usuario quiero conocer por medio de este spike un nuevo lenguaje llamado HTML 
+***Por qué se necesita este spike*** 
+Este spike se necesita para que se profundize en un nuevo lenguaje y cuando se implemente sea mas claro a la hora de ejecutar las cosas.
+
+***Alcance***
+En esta investigacion se va a cubrir informacion general sobre HTML y estar en Contexto con este
+***Qué queda fuera del alcance***
+Lo que queda fuera del alcance es lo practico debido que se tiene informacion general para ponerse en contexto pero no se pone en practica
+
+Preguntas a resolver
+Lista concreta de preguntas técnicas o de negocio que se espera responder.
+¿Qué significa HTML?
+HTML significa HyperText Markup Language, un lenguaje de marcado de hipertexto. 
+¿Qué es una etiqueta HTML?
+Las etiquetas HTML son las unidades básicas que definen la estructura y el contenido de un documento web, como párrafos, encabezados, imágenes y enlaces. 
+¿Cuáles son las etiquetas HTML básicas?
+Las etiquetas básicas incluyen <html>, <head>, <body>, <p>, <h1>-<h6>, <a>, <img>, <br>, <div>, <span>, <ul>, <ol>, <li>, <table>, <tr>, <td>. 
+¿Cómo se crean enlaces en HTML?
+Los enlaces se crean usando la etiqueta <a> con el atributo href que especifica la dirección URL. 
+¿Cómo se crean listas en HTML?
+Las listas se crean usando las etiquetas <ul> (lista sin orden) y <ol> (lista ordenada), y los elementos de la lista se definen con la etiqueta <li>. 
+¿Cómo se crean tablas en HTML?
+Las tablas se crean usando las etiquetas <table>, <tr> (fila), <td> (celda) y <th> (encabezado de celda). 
+¿Qué es el atributo src?
+El atributo src se usa en la etiqueta <img> para especificar la dirección URL de una imagen. 
+¿Qué es el atributo href?
+El atributo href se usa en la etiqueta <a> para especificar la dirección URL de un enlace. 
+¿Cómo se estructura una página HTML?
+Una página HTML se estructura con las etiquetas <html>, <head> (que contiene metainformación como el título) y <body> (que contiene el contenido visible en la página). 
+¿Qué es la diferencia entre elementos de bloque e inline?
+Los elementos de bloque ocupan todo el ancho disponible y comienzan en una nueva línea, mientras que los elementos inline solo ocupan el espacio necesario y no comienzan en una nueva línea. 
+¿Cómo se utiliza CSS en HTML?
+CSS se puede utilizar para estilizar una página HTML, y se puede enlazar a través de la etiqueta <link> en el <head> o incluir directamente en la etiqueta <style>. 
+¿Cómo se utiliza JavaScript en HTML?
+JavaScript se puede enlazar a través de la etiqueta <script> en el <head> o en el <body>, y se puede utilizar para añadir funcionalidad dinámica a una página. 
+¿Qué es el doctype?
+El doctype es la declaración que especifica la versión de HTML que se utiliza en una página, y generalmente se coloca al principio del documento. 
+¿Qué es el renderizado progresivo?
+El renderizado progresivo es una técnica que permite que una página web se cargue rápidamente y se muestre gradualmente, incluso antes de que se haya descargado por completo. 
+¿Qué es el atributo srcset?
+El atributo srcset se utiliza en la etiqueta <img> para especificar diferentes versiones de una imagen en diferentes tamaños, lo que permite que el navegador elija la imagen más adecuada para el dispositivo del usuario. 
+
+Criterios de aceptación
+Tener documentación, una prueba de concepto,ejercicios practicos 
+
+Investigación y hallazgos
+Resumen de lo investigado, pruebas realizadas, y resultados obtenidos.
+En este spike se investigo lo mas frecuente y mas concurrido segun el lenguaje HTML
+
+Recomendaciones / Conclusiones
+Recomendación final basada en los hallazgos. Puede incluir decisiones, tecnologías sugeridas, o próximos pasos.
+
+Referencias
+Google,https://developer.mozilla.org/es/docs/Learn_web_development/Getting_started/Your_first_website/Creating_the_content
+
+
+Tiempo estimado / invertido
+1 mes 
